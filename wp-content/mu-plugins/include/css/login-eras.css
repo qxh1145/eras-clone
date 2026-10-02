@@ -1,0 +1,262 @@
+:root {
+    --eras-login-primary-color: #061a5c;
+    --eras-login-linear-color: #5CB7FE;
+    --eras-login-text-italic-color: #b3e6f3;
+}
+
+body {
+    background-image: url("../image/bg-login-desktop.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+#login-message {
+    border: none;
+}
+
+
+
+#login input[type="text"],
+#login input[type="password"] {
+    padding: 0 4px !important;
+    border-radius: 0;
+    font-family: var(--bs-font-sans-serif);
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    padding: 15px 15px 15px 25px;
+    font-size: 14px;
+    line-height: 1em;
+    box-shadow: none;
+    border-width: 1px;
+    border-color: #000;
+    outline: none;
+}
+
+.login form{
+    padding: 26px 18px;
+}
+
+.notice{
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+#login {
+    width: auto;
+    padding: 0 8%;
+}
+
+#logo img,
+.logo img {
+    filter: brightness(0) invert(1);
+    width: 120px;
+}
+
+.short-info {
+    background-image: linear-gradient(135deg, var(--eras-login-primary-color), var(--eras-login-linear-color));
+}
+
+#login>.col {
+    padding: 0;
+    min-height: 480px;
+    box-sizing: border-box;
+}
+
+.short-info .col-inner {
+    padding: 0 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.short-info i {
+    font-size: 14px;
+    color: var(--eras-login-text-italic-color);
+}
+
+.login form {
+    margin-top: 0;
+    border: none;
+    box-shadow: none;
+}
+
+.text-white a {
+    color: white;
+    text-decoration: none;
+}
+
+#login .col,
+#login .col .col-inner {
+    overflow: hidden;
+    height: 100%;
+    max-width: 500px;
+
+}
+
+.form-wrapper {
+    background-color: #FFF;
+}
+
+.form-wrapper .col-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.button.button-primary.button-large {
+    border-radius: 158px;
+    padding: 0px 30px;
+    background-image: linear-gradient(0deg, var(--eras-login-primary-color), var(--eras-login-linear-color));
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.login #nav a {
+    color: #0d6efd;
+    font-size: 14px;
+}
+
+.short-info a:hover {
+    color: var(--eras-login-text-italic-color);
+    text-decoration: underline;
+}
+
+/* hover btn */
+.button.button-primary.button-large {
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    transition: all .2s;
+}
+
+.button.button-primary.button-large:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.button.button-primary.button-large:active {
+    transform: translateY(-1px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.button.button-primary.button-large::before {
+    content: "";
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    border-radius: 158px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    /* Ensure it is behind the button */
+    transition: all .4s;
+    opacity: 0;
+    transform: scaleX(1) scaleY(1);
+    background: #FFF;
+}
+
+.button.button-primary.button-large:hover::before {
+    opacity: 0;
+    transform: scaleX(1.4) scaleY(1.6);
+}
+
+
+
+@media (max-width: 48em) {
+    #login {
+        flex-direction: column-reverse !important;
+        padding: 8%;
+    }
+
+    body {
+        background-image: url("../image/bg-login-mobile.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+
+    div#login-message {
+        display: none;
+    }
+
+    .short-info .col-inner {
+        text-align: center !important;
+    }
+
+    #login>.col {
+        min-height: 400px;
+    }
+
+    .logo img {
+        width: 200px;
+    }
+    
+    .short-info .col-inner .text-white:first-child p:first-child {
+    display: flex;
+    flex-direction: column;
+}
+}
+
+@media screen and (max-width: 782px) {
+
+    input[type=checkbox],
+    input[type=radio] {
+        height: 1rem;
+        width: 1rem;
+    }
+
+    .widefat tfoot td input[type=checkbox]:before,
+    .widefat th input[type=checkbox]:before,
+    .widefat thead td input[type=checkbox]:before,
+    input[type=checkbox]:checked:before {
+        width: 1.4rem;
+        height: 1.4rem;
+        margin: -0.25rem -0.3rem;
+    }
+}
+
+@media (max-width: 576px){
+    html{
+        overflow-x: hidden;
+    }
+     body {
+        background-image: url("../image/bg-only.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 200%;
+        overflow-x: hidden;
+        position: relative;
+     }
+     
+     .logo-only{
+        position: absolute;
+        width: 66%;
+        z-index: -1;
+        top: -46px;
+        right: -46px;
+    }
+    
+    .forgetmenot{
+            display: flex;
+    align-items: center;
+    }
+    
+    p#nav{
+        padding: 0 12px !important;
+    }
+    
+    .short-info i{
+        font-size: 15px;
+    }
+    
+    .short-info i br{
+        display: none;
+    }
+}
+
+.privacy-policy-page-link{
+    display: none;
+}

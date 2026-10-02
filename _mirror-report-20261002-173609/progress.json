@@ -1,0 +1,1873 @@
+{
+  "pages": 164,
+  "pending": 0,
+  "assets_discovered": 1366,
+  "records": [
+    {
+      "url": "https://erasvietnam.vn/sitemap_index.xml",
+      "status": "sitemap",
+      "entries": 6
+    },
+    {
+      "url": "https://erasvietnam.vn/post-sitemap.xml",
+      "status": "sitemap",
+      "entries": 10
+    },
+    {
+      "url": "https://erasvietnam.vn/page-sitemap.xml",
+      "status": "sitemap",
+      "entries": 42
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung-sitemap.xml",
+      "status": "sitemap",
+      "entries": 14
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item-sitemap.xml",
+      "status": "sitemap",
+      "entries": 63
+    },
+    {
+      "url": "https://erasvietnam.vn/category-sitemap.xml",
+      "status": "sitemap",
+      "entries": 6
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item_category-sitemap.xml",
+      "status": "sitemap",
+      "entries": 3
+    },
+    {
+      "url": "https://erasvietnam.vn/",
+      "status": "downloaded",
+      "path": "index.html",
+      "final_url": "https://erasvietnam.vn/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 317540,
+      "source": "homepage"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin/",
+      "status": "downloaded",
+      "path": "goc-nhin/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 239907,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tich-hop-zalo-chat-cho-website-wordpress-don-gian-nhat/",
+      "status": "downloaded",
+      "path": "tich-hop-zalo-chat-cho-website-wordpress-don-gian-nhat/index.html",
+      "final_url": "https://erasvietnam.vn/tich-hop-zalo-chat-cho-website-wordpress-don-gian-nhat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 248253,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/huong-dan-cach-backup-website-wordpress-chi-tiet-nhat/",
+      "status": "downloaded",
+      "path": "huong-dan-cach-backup-website-wordpress-chi-tiet-nhat/index.html",
+      "final_url": "https://erasvietnam.vn/huong-dan-cach-backup-website-wordpress-chi-tiet-nhat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 244916,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thong-tin-smtp-gmail-cach-cau-hinh-smtp-gmail-free-vao-wordpress/",
+      "status": "downloaded",
+      "path": "thong-tin-smtp-gmail-cach-cau-hinh-smtp-gmail-free-vao-wordpress/index.html",
+      "final_url": "https://erasvietnam.vn/thong-tin-smtp-gmail-cach-cau-hinh-smtp-gmail-free-vao-wordpress/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 249285,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thue-thiet-ke-website-can-luu-y-gi-9-yeu-to-quan-trong-can-nho/",
+      "status": "downloaded",
+      "path": "thue-thiet-ke-website-can-luu-y-gi-9-yeu-to-quan-trong-can-nho/index.html",
+      "final_url": "https://erasvietnam.vn/thue-thiet-ke-website-can-luu-y-gi-9-yeu-to-quan-trong-can-nho/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 251999,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/huong-dan-xoa-cache-trinh-duyet-va-may-tinh/",
+      "status": "downloaded",
+      "path": "huong-dan-xoa-cache-trinh-duyet-va-may-tinh/index.html",
+      "final_url": "https://erasvietnam.vn/huong-dan-xoa-cache-trinh-duyet-va-may-tinh/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 252696,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tong-hop-cac-loi-thuong-gap-khi-thiet-ke-web-co-ban/",
+      "status": "downloaded",
+      "path": "tong-hop-cac-loi-thuong-gap-khi-thiet-ke-web-co-ban/index.html",
+      "final_url": "https://erasvietnam.vn/tong-hop-cac-loi-thuong-gap-khi-thiet-ke-web-co-ban/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 250075,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thay-doi-duong-dan-wp-admin-trong-wordpress/",
+      "status": "downloaded",
+      "path": "thay-doi-duong-dan-wp-admin-trong-wordpress/index.html",
+      "final_url": "https://erasvietnam.vn/thay-doi-duong-dan-wp-admin-trong-wordpress/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 249068,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/kich-thuoc-anh-chuan-tren-website-giup-nang-cao-hieu-qua-seo/",
+      "status": "downloaded",
+      "path": "kich-thuoc-anh-chuan-tren-website-giup-nang-cao-hieu-qua-seo/index.html",
+      "final_url": "https://erasvietnam.vn/kich-thuoc-anh-chuan-tren-website-giup-nang-cao-hieu-qua-seo/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 251301,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/website-dong-va-tinh-la-gi-phan-biet-su-khac-nhau-giua-2-khai-niem/",
+      "status": "downloaded",
+      "path": "website-dong-va-tinh-la-gi-phan-biet-su-khac-nhau-giua-2-khai-niem/index.html",
+      "final_url": "https://erasvietnam.vn/website-dong-va-tinh-la-gi-phan-biet-su-khac-nhau-giua-2-khai-niem/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 247121,
+      "source": "https://erasvietnam.vn/post-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thiet-ke-website/",
+      "status": "downloaded",
+      "path": "thiet-ke-website/index.html",
+      "final_url": "https://erasvietnam.vn/thiet-ke-website/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 468685,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/eras-xin-chan-thanh-cam-on-quy-khach/",
+      "status": "downloaded",
+      "path": "eras-xin-chan-thanh-cam-on-quy-khach/index.html",
+      "final_url": "https://erasvietnam.vn/eras-xin-chan-thanh-cam-on-quy-khach/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 229821,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/contact-us/",
+      "status": "downloaded",
+      "path": "en/contact-us/index.html",
+      "final_url": "https://erasvietnam.vn/en/contact-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240781,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/lien-he/",
+      "status": "downloaded",
+      "path": "lien-he/index.html",
+      "final_url": "https://erasvietnam.vn/lien-he/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 242567,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/dang-ky-nghi-phep/",
+      "status": "downloaded",
+      "path": "login-eras/index__q_6b334f548d36.html",
+      "final_url": "https://erasvietnam.vn/login-eras/?redirect_to=https%3A%2F%2Ferasvietnam.vn%2Fdang-ky-nghi-phep%2F",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 13500,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/du-an/",
+      "status": "downloaded",
+      "path": "du-an/index.html",
+      "final_url": "https://erasvietnam.vn/du-an/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 233586,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/website-development/",
+      "status": "downloaded",
+      "path": "en/website-development/index.html",
+      "final_url": "https://erasvietnam.vn/en/website-development/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 389895,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/",
+      "status": "downloaded",
+      "path": "en/home/index.html",
+      "final_url": "https://erasvietnam.vn/en/home/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 302098,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/e-mail-doanh-nghiep/",
+      "status": "downloaded",
+      "path": "e-mail-doanh-nghiep/index.html",
+      "final_url": "https://erasvietnam.vn/e-mail-doanh-nghiep/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 304523,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/business-e-mail/",
+      "status": "downloaded",
+      "path": "en/business-e-mail/index.html",
+      "final_url": "https://erasvietnam.vn/en/business-e-mail/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 292933,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/business-hosting/",
+      "status": "downloaded",
+      "path": "en/business-hosting/index.html",
+      "final_url": "https://erasvietnam.vn/en/business-hosting/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 273392,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/hosting-doanh-nghiep/",
+      "status": "downloaded",
+      "path": "hosting-doanh-nghiep/index.html",
+      "final_url": "https://erasvietnam.vn/hosting-doanh-nghiep/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 275951,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/vps-doanh-nghiep/",
+      "status": "downloaded",
+      "path": "vps-doanh-nghiep/index.html",
+      "final_url": "https://erasvietnam.vn/vps-doanh-nghiep/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 275481,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/business-vps/",
+      "status": "downloaded",
+      "path": "en/business-vps/index.html",
+      "final_url": "https://erasvietnam.vn/en/business-vps/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 272662,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/payment-guide/",
+      "status": "downloaded",
+      "path": "en/payment-guide/index.html",
+      "final_url": "https://erasvietnam.vn/en/payment-guide/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 235439,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/huong-dan-thanh-toan/",
+      "status": "downloaded",
+      "path": "huong-dan-thanh-toan/index.html",
+      "final_url": "https://erasvietnam.vn/huong-dan-thanh-toan/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 237437,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/chinh-sach-bao-hanh/",
+      "status": "downloaded",
+      "path": "chinh-sach-bao-hanh/index.html",
+      "final_url": "https://erasvietnam.vn/chinh-sach-bao-hanh/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 233624,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/chinh-sach-hoan-tien/",
+      "status": "downloaded",
+      "path": "chinh-sach-hoan-tien/index.html",
+      "final_url": "https://erasvietnam.vn/chinh-sach-hoan-tien/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 232869,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/refund-policy/",
+      "status": "downloaded",
+      "path": "en/refund-policy/index.html",
+      "final_url": "https://erasvietnam.vn/en/refund-policy/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 230417,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/privacy-policy/",
+      "status": "downloaded",
+      "path": "en/privacy-policy/index.html",
+      "final_url": "https://erasvietnam.vn/en/privacy-policy/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 234099,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/chinh-sach-bao-mat/",
+      "status": "downloaded",
+      "path": "chinh-sach-bao-mat/index.html",
+      "final_url": "https://erasvietnam.vn/chinh-sach-bao-mat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 237993,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/dieu-khoan-su-dung/",
+      "status": "downloaded",
+      "path": "dieu-khoan-su-dung/index.html",
+      "final_url": "https://erasvietnam.vn/dieu-khoan-su-dung/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 236101,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/terms-of-use/",
+      "status": "downloaded",
+      "path": "en/terms-of-use/index.html",
+      "final_url": "https://erasvietnam.vn/en/terms-of-use/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 232984,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/faq/",
+      "status": "downloaded",
+      "path": "en/faq/index.html",
+      "final_url": "https://erasvietnam.vn/en/faq/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 308699,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/cau-hoi-thuong-gap/",
+      "status": "downloaded",
+      "path": "cau-hoi-thuong-gap/index.html",
+      "final_url": "https://erasvietnam.vn/cau-hoi-thuong-gap/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 312718,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/gioi-thieu/",
+      "status": "downloaded",
+      "path": "gioi-thieu/index.html",
+      "final_url": "https://erasvietnam.vn/gioi-thieu/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 348936,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/storage-solution/",
+      "status": "downloaded",
+      "path": "en/storage-solution/index.html",
+      "final_url": "https://erasvietnam.vn/en/storage-solution/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 293178,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/ui-ux-branding-design-2/",
+      "status": "downloaded",
+      "path": "en/ui-ux-branding-design-2/index.html",
+      "final_url": "https://erasvietnam.vn/en/ui-ux-branding-design-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 318313,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/website-keyword-seo/",
+      "status": "downloaded",
+      "path": "en/website-keyword-seo/index.html",
+      "final_url": "https://erasvietnam.vn/en/website-keyword-seo/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 318511,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/app-mobile-development/",
+      "status": "downloaded",
+      "path": "en/app-mobile-development/index.html",
+      "final_url": "https://erasvietnam.vn/en/app-mobile-development/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 306724,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thiet-ke-app-mobile/",
+      "status": "downloaded",
+      "path": "thiet-ke-app-mobile/index.html",
+      "final_url": "https://erasvietnam.vn/thiet-ke-app-mobile/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 313101,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/seo-tu-khoa-website/",
+      "status": "downloaded",
+      "path": "seo-tu-khoa-website/index.html",
+      "final_url": "https://erasvietnam.vn/seo-tu-khoa-website/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 325225,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/ui-ux-branding-design/",
+      "status": "downloaded",
+      "path": "ui-ux-branding-design/index.html",
+      "final_url": "https://erasvietnam.vn/ui-ux-branding-design/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 324713,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/giai-phap-luu-tru/",
+      "status": "downloaded",
+      "path": "giai-phap-luu-tru/index.html",
+      "final_url": "https://erasvietnam.vn/giai-phap-luu-tru/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 300288,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/about-us/",
+      "status": "downloaded",
+      "path": "en/about-us/index.html",
+      "final_url": "https://erasvietnam.vn/en/about-us/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 344803,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/porfolio-eras-vietnam/",
+      "status": "downloaded",
+      "path": "en/porfolio-eras-vietnam/index.html",
+      "final_url": "https://erasvietnam.vn/en/porfolio-eras-vietnam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 229901,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/insight/",
+      "status": "downloaded",
+      "path": "en/insight/index.html",
+      "final_url": "https://erasvietnam.vn/en/insight/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 224078,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/our-project/",
+      "status": "downloaded",
+      "path": "en/our-project/index.html",
+      "final_url": "https://erasvietnam.vn/en/our-project/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 231808,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/warranty-policy/",
+      "status": "downloaded",
+      "path": "en/warranty-policy/index.html",
+      "final_url": "https://erasvietnam.vn/en/warranty-policy/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 230707,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/ho-so-nang-luc-eras-vietnam/",
+      "status": "downloaded",
+      "path": "ho-so-nang-luc-eras-vietnam/index.html",
+      "final_url": "https://erasvietnam.vn/ho-so-nang-luc-eras-vietnam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 231609,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/sample-page/",
+      "status": "downloaded",
+      "path": "sample-page/index.html",
+      "final_url": "https://erasvietnam.vn/sample-page/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 230459,
+      "source": "https://erasvietnam.vn/page-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/",
+      "status": "downloaded",
+      "path": "tuyen-dung/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 234706,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/marketing-advertising-specialist/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/marketing-advertising-specialist/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/marketing-advertising-specialist/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 250937,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-quang-cao-marketing/",
+      "status": "downloaded",
+      "path": "tuyen-dung/chuyen-vien-quang-cao-marketing/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-quang-cao-marketing/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253245,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/thuc-tap-sinh-lap-trinh-php/",
+      "status": "downloaded",
+      "path": "tuyen-dung/thuc-tap-sinh-lap-trinh-php/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/thuc-tap-sinh-lap-trinh-php/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 252613,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/thuc-tap-sinh-content-marketing/",
+      "status": "downloaded",
+      "path": "tuyen-dung/thuc-tap-sinh-content-marketing/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/thuc-tap-sinh-content-marketing/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253147,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/videographer-video-editor/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/videographer-video-editor/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/videographer-video-editor/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253091,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/nhan-vien-quay-dung-video-editor/",
+      "status": "downloaded",
+      "path": "tuyen-dung/nhan-vien-quay-dung-video-editor/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/nhan-vien-quay-dung-video-editor/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 255574,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-lap-trinh-php/",
+      "status": "downloaded",
+      "path": "tuyen-dung/chuyen-vien-lap-trinh-php/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-lap-trinh-php/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253067,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-kinh-doanh/",
+      "status": "downloaded",
+      "path": "tuyen-dung/chuyen-vien-kinh-doanh/index.html",
+      "final_url": "https://erasvietnam.vn/tuyen-dung/chuyen-vien-kinh-doanh/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253310,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/content-marketing-intern/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/content-marketing-intern/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/content-marketing-intern/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 251262,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/php-developer-intern/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/php-developer-intern/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/php-developer-intern/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 250523,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/php-software-engineer/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/php-software-engineer/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/php-software-engineer/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 250948,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/sales-executive/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/sales-executive/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/sales-executive/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 251237,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/tuyen-dung/",
+      "status": "downloaded",
+      "path": "en/tuyen-dung/index.html",
+      "final_url": "https://erasvietnam.vn/en/tuyen-dung/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 232823,
+      "source": "https://erasvietnam.vn/tuyen-dung-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/",
+      "status": "downloaded",
+      "path": "featured_item/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 340635,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/giao-dien-dsmart-giai-phap-dieu-khien-xe-hoi-tren-smartphone/",
+      "status": "downloaded",
+      "path": "featured_item/giao-dien-dsmart-giai-phap-dieu-khien-xe-hoi-tren-smartphone/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/giao-dien-dsmart-giai-phap-dieu-khien-xe-hoi-tren-smartphone/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 231784,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-phat-trien-cong-nghe-thp/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-co-phan-phat-trien-cong-nghe-thp/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-phat-trien-cong-nghe-thp/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 233041,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/evc-athena-cong-ty-tnhh-evc-athena/",
+      "status": "downloaded",
+      "path": "featured_item/evc-athena-cong-ty-tnhh-evc-athena/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/evc-athena-cong-ty-tnhh-evc-athena/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331678,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/hoang-gia-cong-ty-cp-xay-dung-va-noi-that-hoang-gia/",
+      "status": "downloaded",
+      "path": "featured_item/hoang-gia-cong-ty-cp-xay-dung-va-noi-that-hoang-gia/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/hoang-gia-cong-ty-cp-xay-dung-va-noi-that-hoang-gia/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332556,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/centro-noi-that-cao-cap-centro-chau-au/",
+      "status": "downloaded",
+      "path": "featured_item/centro-noi-that-cao-cap-centro-chau-au/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/centro-noi-that-cao-cap-centro-chau-au/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332135,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/moonstore-thoi-trang-cong-so-moonstore/",
+      "status": "downloaded",
+      "path": "featured_item/moonstore-thoi-trang-cong-so-moonstore/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/moonstore-thoi-trang-cong-so-moonstore/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332395,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/muagiday-san-thuong-mai-dien-tu-xuyen-bien-gioi-hang-dau-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/muagiday-san-thuong-mai-dien-tu-xuyen-bien-gioi-hang-dau-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/muagiday-san-thuong-mai-dien-tu-xuyen-bien-gioi-hang-dau-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332175,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/pink-nail-spa-beauty/",
+      "status": "downloaded",
+      "path": "featured_item/pink-nail-spa-beauty/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/pink-nail-spa-beauty/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331750,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nutrition-fitness-cong-ty-co-phan-nutrition-fitness/",
+      "status": "downloaded",
+      "path": "featured_item/nutrition-fitness-cong-ty-co-phan-nutrition-fitness/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nutrition-fitness-cong-ty-co-phan-nutrition-fitness/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332543,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/pa-marketing-don-vi-dao-tao-hang-dau-ve-marketing/",
+      "status": "downloaded",
+      "path": "featured_item/pa-marketing-don-vi-dao-tao-hang-dau-ve-marketing/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/pa-marketing-don-vi-dao-tao-hang-dau-ve-marketing/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331915,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/binh-phat-cong-ty-tnhh-may-xay-dung-binh-phat/",
+      "status": "downloaded",
+      "path": "featured_item/binh-phat-cong-ty-tnhh-may-xay-dung-binh-phat/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/binh-phat-cong-ty-tnhh-may-xay-dung-binh-phat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332495,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nhamoi-architechture-kien-truc-dep-cho-moi-nha/",
+      "status": "downloaded",
+      "path": "featured_item/nhamoi-architechture-kien-truc-dep-cho-moi-nha/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nhamoi-architechture-kien-truc-dep-cho-moi-nha/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332098,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/hung-an-group-dich-vu-cung-ung-nhan-luc-uy-tin-nhat/",
+      "status": "downloaded",
+      "path": "featured_item/hung-an-group-dich-vu-cung-ung-nhan-luc-uy-tin-nhat/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/hung-an-group-dich-vu-cung-ung-nhan-luc-uy-tin-nhat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332600,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-kien-truc-va-xay-dung-gt-house/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-co-phan-kien-truc-va-xay-dung-gt-house/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-kien-truc-va-xay-dung-gt-house/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332094,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/bossman-cong-ty-co-phan-bossman-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/bossman-cong-ty-co-phan-bossman-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/bossman-cong-ty-co-phan-bossman-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331999,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/sua-tivi-chuyen-nghiep-dich-vu-sua-chua-tivi-thiet-bi-am-thanh-chinh-hang/",
+      "status": "downloaded",
+      "path": "featured_item/sua-tivi-chuyen-nghiep-dich-vu-sua-chua-tivi-thiet-bi-am-thanh-chinh-hang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/sua-tivi-chuyen-nghiep-dich-vu-sua-chua-tivi-thiet-bi-am-thanh-chinh-hang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332967,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/iphone-hd-iphone-trong-tam-tay/",
+      "status": "downloaded",
+      "path": "featured_item/iphone-hd-iphone-trong-tam-tay/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/iphone-hd-iphone-trong-tam-tay/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331855,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/weha-dua-cong-nghe-gan-gui-hon-voi-doi-song/",
+      "status": "downloaded",
+      "path": "featured_item/weha-dua-cong-nghe-gan-gui-hon-voi-doi-song/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/weha-dua-cong-nghe-gan-gui-hon-voi-doi-song/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332538,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/ichi-japan-xuat-khau-lao-dong-nhat-ban-luong-cao-chi-phi-thap/",
+      "status": "downloaded",
+      "path": "featured_item/ichi-japan-xuat-khau-lao-dong-nhat-ban-luong-cao-chi-phi-thap/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/ichi-japan-xuat-khau-lao-dong-nhat-ban-luong-cao-chi-phi-thap/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332329,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/xanhthienthanh-cong-ty-co-phan-dau-tu-va-phat-trien-xanh-thien-thanh/",
+      "status": "downloaded",
+      "path": "featured_item/xanhthienthanh-cong-ty-co-phan-dau-tu-va-phat-trien-xanh-thien-thanh/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/xanhthienthanh-cong-ty-co-phan-dau-tu-va-phat-trien-xanh-thien-thanh/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 333170,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cinvico-lean-pro-cong-ty-co-phan-hop-tac-dau-tu-cong-nghe-cinvico/",
+      "status": "downloaded",
+      "path": "featured_item/cinvico-lean-pro-cong-ty-co-phan-hop-tac-dau-tu-cong-nghe-cinvico/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cinvico-lean-pro-cong-ty-co-phan-hop-tac-dau-tu-cong-nghe-cinvico/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332751,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/wewell-cong-ty-co-phan-duoc-lieu-va-thuc-pham-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/wewell-cong-ty-co-phan-duoc-lieu-va-thuc-pham-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/wewell-cong-ty-co-phan-duoc-lieu-va-thuc-pham-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332649,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/giang-lam-dung-cu-co-khi/",
+      "status": "downloaded",
+      "path": "featured_item/giang-lam-dung-cu-co-khi/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/giang-lam-dung-cu-co-khi/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332229,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/wisdomland-international-preschool/",
+      "status": "downloaded",
+      "path": "featured_item/wisdomland-international-preschool/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/wisdomland-international-preschool/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332154,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/forex-robot-automated-trading-robots/",
+      "status": "downloaded",
+      "path": "featured_item/forex-robot-automated-trading-robots/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/forex-robot-automated-trading-robots/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 331894,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/drnhanh-cong-ty-tnhh-tu-van-giao-duc-dr-nhanh/",
+      "status": "downloaded",
+      "path": "featured_item/drnhanh-cong-ty-tnhh-tu-van-giao-duc-dr-nhanh/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/drnhanh-cong-ty-tnhh-tu-van-giao-duc-dr-nhanh/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332672,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/hrzone-kien-tao-cong-dong-nhan-su-quoc-te/",
+      "status": "downloaded",
+      "path": "featured_item/hrzone-kien-tao-cong-dong-nhan-su-quoc-te/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/hrzone-kien-tao-cong-dong-nhan-su-quoc-te/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332678,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/hoanglan-logistics-don-vi-van-chuyen-hang-trung-viet-hang-dau-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/hoanglan-logistics-don-vi-van-chuyen-hang-trung-viet-hang-dau-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/hoanglan-logistics-don-vi-van-chuyen-hang-trung-viet-hang-dau-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332833,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/tintuc365-cong-ty-co-phan-truyen-thong-thuong-mai-viet/",
+      "status": "downloaded",
+      "path": "featured_item/tintuc365-cong-ty-co-phan-truyen-thong-thuong-mai-viet/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/tintuc365-cong-ty-co-phan-truyen-thong-thuong-mai-viet/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332814,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/hop-hao-huc-cong-ty-tnhh-mam-nho/",
+      "status": "downloaded",
+      "path": "featured_item/hop-hao-huc-cong-ty-tnhh-mam-nho/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/hop-hao-huc-cong-ty-tnhh-mam-nho/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332530,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/an-phu-decor-kien-tao-giac-mo/",
+      "status": "downloaded",
+      "path": "featured_item/an-phu-decor-kien-tao-giac-mo/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/an-phu-decor-kien-tao-giac-mo/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332497,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-cp-dau-tu-xay-dung-vina2/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-cp-dau-tu-xay-dung-vina2/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-cp-dau-tu-xay-dung-vina2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332502,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/aya-spa-beauty-cong-ty-co-phan-go-do/",
+      "status": "downloaded",
+      "path": "featured_item/aya-spa-beauty-cong-ty-co-phan-go-do/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/aya-spa-beauty-cong-ty-co-phan-go-do/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332590,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-cp-du-lich-thuong-mai-khung-troi-viet/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-cp-du-lich-thuong-mai-khung-troi-viet/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-cp-du-lich-thuong-mai-khung-troi-viet/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332695,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/truong-trung-hoc-pho-thong-huynh-thuc-khang/",
+      "status": "downloaded",
+      "path": "featured_item/truong-trung-hoc-pho-thong-huynh-thuc-khang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/truong-trung-hoc-pho-thong-huynh-thuc-khang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332616,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-son-nero-thuong-hieu-modena/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-tnhh-son-nero-thuong-hieu-modena/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-son-nero-thuong-hieu-modena/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332607,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nha-khoa-viva-dental-he-thong-chuoi-nha-khoa-tieu-chuan-my-dau-tien-tai-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/nha-khoa-viva-dental-he-thong-chuoi-nha-khoa-tieu-chuan-my-dau-tien-tai-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nha-khoa-viva-dental-he-thong-chuoi-nha-khoa-tieu-chuan-my-dau-tien-tai-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 333289,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/trangmoon-shop-cay-canh-de-ban-hop-phong-thuy/",
+      "status": "downloaded",
+      "path": "featured_item/trangmoon-shop-cay-canh-de-ban-hop-phong-thuy/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/trangmoon-shop-cay-canh-de-ban-hop-phong-thuy/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332695,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nha-khoa-viet-phap-he-thong-chuoi-nha-khoa-tieu-chuan-phap-dau-tien-tai-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/nha-khoa-viet-phap-he-thong-chuoi-nha-khoa-tieu-chuan-phap-dau-tien-tai-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nha-khoa-viet-phap-he-thong-chuoi-nha-khoa-tieu-chuan-phap-dau-tien-tai-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 333306,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/pro-car-parts-viet-nam-phan-phoi-phu-tung-bao-duong-gam-o-to/",
+      "status": "downloaded",
+      "path": "featured_item/pro-car-parts-viet-nam-phan-phoi-phu-tung-bao-duong-gam-o-to/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/pro-car-parts-viet-nam-phan-phoi-phu-tung-bao-duong-gam-o-to/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332767,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/beework-cong-ty-tnhh-beework-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/beework-cong-ty-tnhh-beework-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/beework-cong-ty-tnhh-beework-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332678,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/ppmvn-cong-ty-tnhh-quan-ly-tai-san-premier-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/ppmvn-cong-ty-tnhh-quan-ly-tai-san-premier-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/ppmvn-cong-ty-tnhh-quan-ly-tai-san-premier-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332773,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-square-orange/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-co-phan-square-orange/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-co-phan-square-orange/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332526,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/novopharm-tan-tam-cho-su-sang-tao-chat-luong/",
+      "status": "downloaded",
+      "path": "featured_item/novopharm-tan-tam-cho-su-sang-tao-chat-luong/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/novopharm-tan-tam-cho-su-sang-tao-chat-luong/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332572,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/viet-tht-production-cong-ty-co-phan-viet-tht/",
+      "status": "downloaded",
+      "path": "featured_item/viet-tht-production-cong-ty-co-phan-viet-tht/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/viet-tht-production-cong-ty-co-phan-viet-tht/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332663,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-konnertec-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-tnhh-konnertec-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-konnertec-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332538,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/applesmile-cua-hang-san-pham-apple-chinh-hang/",
+      "status": "downloaded",
+      "path": "featured_item/applesmile-cua-hang-san-pham-apple-chinh-hang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/applesmile-cua-hang-san-pham-apple-chinh-hang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332505,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/lien-doan-thuong-mai-va-cong-nghiep-viet-nam-tai-da-nang-vcci-da-nang/",
+      "status": "downloaded",
+      "path": "featured_item/lien-doan-thuong-mai-va-cong-nghiep-viet-nam-tai-da-nang-vcci-da-nang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/lien-doan-thuong-mai-va-cong-nghiep-viet-nam-tai-da-nang-vcci-da-nang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 333069,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/so-y-te-benh-vien-mat-ha-giang/",
+      "status": "downloaded",
+      "path": "featured_item/so-y-te-benh-vien-mat-ha-giang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/so-y-te-benh-vien-mat-ha-giang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332562,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/tengroup-all-for-the-best/",
+      "status": "downloaded",
+      "path": "featured_item/tengroup-all-for-the-best/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/tengroup-all-for-the-best/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332381,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/pa-store-cong-ty-tnhh-pa-marketing/",
+      "status": "downloaded",
+      "path": "featured_item/pa-store-cong-ty-tnhh-pa-marketing/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/pa-store-cong-ty-tnhh-pa-marketing/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332517,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/sencom-home-decor-lighting-design/",
+      "status": "downloaded",
+      "path": "featured_item/sencom-home-decor-lighting-design/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/sencom-home-decor-lighting-design/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332653,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/banh-nuong-an-vat-co-ti/",
+      "status": "downloaded",
+      "path": "featured_item/banh-nuong-an-vat-co-ti/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/banh-nuong-an-vat-co-ti/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332265,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-luat-legal-art/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-luat-legal-art/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-luat-legal-art/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332162,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/flexius-cong-ty-co-phan-the-gioi-bang/",
+      "status": "downloaded",
+      "path": "featured_item/flexius-cong-ty-co-phan-the-gioi-bang/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/flexius-cong-ty-co-phan-the-gioi-bang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332689,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/an-phat-cong-ty-co-phan-cong-nghe-thuong-mai-an-phat/",
+      "status": "downloaded",
+      "path": "featured_item/an-phat-cong-ty-co-phan-cong-nghe-thuong-mai-an-phat/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/an-phat-cong-ty-co-phan-cong-nghe-thuong-mai-an-phat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332632,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-nha-khoa-viva-dental/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-tnhh-nha-khoa-viva-dental/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-tnhh-nha-khoa-viva-dental/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332370,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nikico-cong-ty-tnhh-nihon-kizai/",
+      "status": "downloaded",
+      "path": "featured_item/nikico-cong-ty-tnhh-nihon-kizai/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nikico-cong-ty-tnhh-nihon-kizai/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332295,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/nha-khoa-tham-my-quoc-te-viet-phap/",
+      "status": "downloaded",
+      "path": "featured_item/nha-khoa-tham-my-quoc-te-viet-phap/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/nha-khoa-tham-my-quoc-te-viet-phap/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332351,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/dwatch-luxury-dong-ho-thuy-sy/",
+      "status": "downloaded",
+      "path": "featured_item/dwatch-luxury-dong-ho-thuy-sy/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/dwatch-luxury-dong-ho-thuy-sy/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332323,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/cong-ty-cp-cong-nghe-an-ninh-mang-quoc-gia-viet-nam/",
+      "status": "downloaded",
+      "path": "featured_item/cong-ty-cp-cong-nghe-an-ninh-mang-quoc-gia-viet-nam/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/cong-ty-cp-cong-nghe-an-ninh-mang-quoc-gia-viet-nam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 332737,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item/stormick-cong-ty-tnhh-storm-entertaiment/",
+      "status": "downloaded",
+      "path": "featured_item/stormick-cong-ty-tnhh-storm-entertaiment/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item/stormick-cong-ty-tnhh-storm-entertaiment/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 232893,
+      "source": "https://erasvietnam.vn/featured_item-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/social-marketing/",
+      "status": "downloaded",
+      "path": "social-marketing/index.html",
+      "final_url": "https://erasvietnam.vn/social-marketing/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240214,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/tin-tuc/",
+      "status": "downloaded",
+      "path": "tin-tuc/index.html",
+      "final_url": "https://erasvietnam.vn/tin-tuc/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 233093,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin-website/",
+      "status": "downloaded",
+      "path": "goc-nhin-website/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin-website/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 239689,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/thu-thuat/",
+      "status": "downloaded",
+      "path": "thu-thuat/index.html",
+      "final_url": "https://erasvietnam.vn/thu-thuat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 239079,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/creative-branding/",
+      "status": "downloaded",
+      "path": "creative-branding/index.html",
+      "final_url": "https://erasvietnam.vn/creative-branding/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 229550,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/ux-ui/",
+      "status": "downloaded",
+      "path": "ux-ui/index.html",
+      "final_url": "https://erasvietnam.vn/ux-ui/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 231323,
+      "source": "https://erasvietnam.vn/category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item_category/branding/",
+      "status": "downloaded",
+      "path": "featured_item_category/branding/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item_category/branding/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 232944,
+      "source": "https://erasvietnam.vn/featured_item_category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item_category/mobile-app/",
+      "status": "downloaded",
+      "path": "featured_item_category/mobile-app/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item_category/mobile-app/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 231321,
+      "source": "https://erasvietnam.vn/featured_item_category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/featured_item_category/website/",
+      "status": "downloaded",
+      "path": "featured_item_category/website/index.html",
+      "final_url": "https://erasvietnam.vn/featured_item_category/website/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 334752,
+      "source": "https://erasvietnam.vn/featured_item_category-sitemap.xml"
+    },
+    {
+      "url": "https://erasvietnam.vn/giai-phap-truyen-thong-so/",
+      "status": "downloaded",
+      "path": "giai-phap-truyen-thong-so/index.html",
+      "final_url": "https://erasvietnam.vn/giai-phap-truyen-thong-so/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 360508,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2024/02/logo-store-vinatex.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2024/02/logo-store-vinatex.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2024/02/logo-store-vinatex.png",
+      "content_type": "image/png",
+      "bytes": 44451,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-bamboo-sapa.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-bamboo-sapa.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-bamboo-sapa.png",
+      "content_type": "image/png",
+      "bytes": 35487,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-belnutris.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-belnutris.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-belnutris.png",
+      "content_type": "image/png",
+      "bytes": 13450,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-bidv.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-bidv.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-bidv.png",
+      "content_type": "image/png",
+      "bytes": 25788,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-contrexim.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-contrexim.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-contrexim.png",
+      "content_type": "image/png",
+      "bytes": 24303,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-coteccons.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-coteccons.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-coteccons.png",
+      "content_type": "image/png",
+      "bytes": 15717,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-dong-a.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-dong-a.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-dong-a.png",
+      "content_type": "image/png",
+      "bytes": 22108,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ectech.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-ectech.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ectech.png",
+      "content_type": "image/png",
+      "bytes": 10600,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-eurowindows-2.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-eurowindows-2.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-eurowindows-2.png",
+      "content_type": "image/png",
+      "bytes": 17072,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-goldengate.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-goldengate.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-goldengate.png",
+      "content_type": "image/png",
+      "bytes": 16478,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ha-noi-toronto-1.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-ha-noi-toronto-1.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ha-noi-toronto-1.png",
+      "content_type": "image/png",
+      "bytes": 28718,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-hanoi-re.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-hanoi-re.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-hanoi-re.png",
+      "content_type": "image/png",
+      "bytes": 23037,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-jaxtina.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-jaxtina.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-jaxtina.png",
+      "content_type": "image/png",
+      "bytes": 21289,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-maison.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-maison.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-maison.png",
+      "content_type": "image/png",
+      "bytes": 28289,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-mbbank.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-mbbank.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-mbbank.png",
+      "content_type": "image/png",
+      "bytes": 14863,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ncs.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-ncs.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ncs.png",
+      "content_type": "image/png",
+      "bytes": 11249,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-nguyen-tat-thanh-1.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-nguyen-tat-thanh-1.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-nguyen-tat-thanh-1.png",
+      "content_type": "image/png",
+      "bytes": 47275,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-pitech.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-pitech.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-pitech.png",
+      "content_type": "image/png",
+      "bytes": 13122,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-pvi.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-pvi.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-pvi.png",
+      "content_type": "image/png",
+      "bytes": 33003,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-saigon-coop.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-saigon-coop.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-saigon-coop.png",
+      "content_type": "image/png",
+      "bytes": 17041,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ten.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-ten.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-ten.png",
+      "content_type": "image/png",
+      "bytes": 19634,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-thu-cuc.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-thu-cuc.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-thu-cuc.png",
+      "content_type": "image/png",
+      "bytes": 16606,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-thuongdo.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-thuongdo.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-thuongdo.png",
+      "content_type": "image/png",
+      "bytes": 59236,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vcci.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-vcci.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vcci.png",
+      "content_type": "image/png",
+      "bytes": 19906,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vinacomin.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-vinacomin.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vinacomin.png",
+      "content_type": "image/png",
+      "bytes": 136409,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vnpay.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-vnpay.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vnpay.png",
+      "content_type": "image/png",
+      "bytes": 26009,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vnpt.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-vnpt.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vnpt.png",
+      "content_type": "image/png",
+      "bytes": 19185,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vpbank.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-vpbank.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-vpbank.png",
+      "content_type": "image/png",
+      "bytes": 18896,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-weup.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-weup.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-weup.png",
+      "content_type": "image/png",
+      "bytes": 101362,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-wisdomland.png",
+      "status": "downloaded",
+      "path": "wp-content/uploads/2025/04/logo-wisdomland.png",
+      "final_url": "https://erasvietnam.vn/wp-content/uploads/2025/04/logo-wisdomland.png",
+      "content_type": "image/png",
+      "bytes": 40944,
+      "source": "https://erasvietnam.vn/"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin/page/2/",
+      "status": "downloaded",
+      "path": "goc-nhin/page/2/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240434,
+      "source": "https://erasvietnam.vn/goc-nhin/"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin/page/3/",
+      "status": "downloaded",
+      "path": "goc-nhin/page/3/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/page/3/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240538,
+      "source": "https://erasvietnam.vn/goc-nhin/"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin/page/5/",
+      "status": "downloaded",
+      "path": "goc-nhin/page/5/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/page/5/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 233694,
+      "source": "https://erasvietnam.vn/goc-nhin/"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin",
+      "status": "downloaded",
+      "path": "goc-nhin/index.mirror-20261002-173609.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 239898,
+      "source": "https://erasvietnam.vn/tich-hop-zalo-chat-cho-website-wordpress-don-gian-nhat/"
+    },
+    {
+      "url": "https://erasvietnam.vn/phat-trien-ung-dung-di-dong-cho-doanh-nghiep-huong-dan-chi-tiet/",
+      "status": "downloaded",
+      "path": "phat-trien-ung-dung-di-dong-cho-doanh-nghiep-huong-dan-chi-tiet/index.html",
+      "final_url": "https://erasvietnam.vn/phat-trien-ung-dung-di-dong-cho-doanh-nghiep-huong-dan-chi-tiet/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 253984,
+      "source": "https://erasvietnam.vn/thue-thiet-ke-website-can-luu-y-gi-9-yeu-to-quan-trong-can-nho/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-content/uploads/2023/07/2Ug0Fxodeb.mp4",
+      "status": "error",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://erasvietnam.vn/cai-dat-plugin-wordpress/",
+      "status": "error",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://erasvietnam.vn/mat-khau-an-toan/",
+      "status": "error",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://erasvietnam.vn/plugin-quet-ma-doc-wordpress/",
+      "status": "error",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/digital-communications-solutions/",
+      "status": "downloaded",
+      "path": "en/digital-communications-solutions/index.html",
+      "final_url": "https://erasvietnam.vn/en/digital-communications-solutions/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 352446,
+      "source": "https://erasvietnam.vn/en/contact-us/"
+    },
+    {
+      "url": "https://erasvietnam.vn/login-eras/?action=lostpassword",
+      "status": "skipped",
+      "reason": "interactive/action URL"
+    },
+    {
+      "url": "https://erasvietnam.vn/login-eras/?action=register",
+      "status": "skipped",
+      "reason": "interactive/action URL"
+    },
+    {
+      "url": "https://erasvietnam.vn/ui-ux-branding-design-2/",
+      "status": "downloaded",
+      "path": "en/ui-ux-branding-design-2/index.mirror-20261002-173609.html",
+      "final_url": "https://erasvietnam.vn/en/ui-ux-branding-design-2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 318334,
+      "source": "https://erasvietnam.vn/en/home/"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/ui-ux-branding-design/",
+      "status": "downloaded",
+      "path": "ui-ux-branding-design/index.mirror-20261002-173609.html",
+      "final_url": "https://erasvietnam.vn/ui-ux-branding-design/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 324723,
+      "source": "https://erasvietnam.vn/en/faq/"
+    },
+    {
+      "url": "https://erasvietnam.vn/cloud-vps/",
+      "status": "error",
+      "reason": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://erasvietnam.vn/porfolio-eras-vietnam/",
+      "status": "downloaded",
+      "path": "en/porfolio-eras-vietnam/index.mirror-20261002-173609.html",
+      "final_url": "https://erasvietnam.vn/en/porfolio-eras-vietnam/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 229899,
+      "source": "https://erasvietnam.vn/en/about-us/"
+    },
+    {
+      "url": "https://erasvietnam.vn/en/home",
+      "status": "downloaded",
+      "path": "en/home/index.mirror-20261002-173609.html",
+      "final_url": "https://erasvietnam.vn/en/home/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 302105,
+      "source": "https://erasvietnam.vn/en/insight/"
+    },
+    {
+      "url": "https://erasvietnam.vn/wp-admin/",
+      "status": "skipped",
+      "reason": "robots.txt disallow"
+    },
+    {
+      "url": "https://erasvietnam.vn/ban-hang-online-gi-hieu-qua-chi-voi-10-trieu/",
+      "status": "downloaded",
+      "path": "ban-hang-online-gi-hieu-qua-chi-voi-10-trieu/index.html",
+      "final_url": "https://erasvietnam.vn/ban-hang-online-gi-hieu-qua-chi-voi-10-trieu/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 247254,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/giai-phap-ban-hang-online-tong-the-2021/",
+      "status": "downloaded",
+      "path": "giai-phap-ban-hang-online-tong-the-2021/index.html",
+      "final_url": "https://erasvietnam.vn/giai-phap-ban-hang-online-tong-the-2021/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 244431,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/hieu-dung-insights-khach-hang-trong-hanh-trinh-mua-hang-tren-social-media/",
+      "status": "downloaded",
+      "path": "hieu-dung-insights-khach-hang-trong-hanh-trinh-mua-hang-tren-social-media/index.html",
+      "final_url": "https://erasvietnam.vn/hieu-dung-insights-khach-hang-trong-hanh-trinh-mua-hang-tren-social-media/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 247392,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/phuong-phap-dinh-vi-thuong-hieu-co-ban-mo-rong/",
+      "status": "downloaded",
+      "path": "phuong-phap-dinh-vi-thuong-hieu-co-ban-mo-rong/index.html",
+      "final_url": "https://erasvietnam.vn/phuong-phap-dinh-vi-thuong-hieu-co-ban-mo-rong/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 272540,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/social-marketing/page/2/",
+      "status": "downloaded",
+      "path": "social-marketing/page/2/index.html",
+      "final_url": "https://erasvietnam.vn/social-marketing/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 229652,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/su-thuan-tien-chi-phoi-quyet-dinh-mua-hang-cua-nguoi-tieu-dung/",
+      "status": "downloaded",
+      "path": "su-thuan-tien-chi-phoi-quyet-dinh-mua-hang-cua-nguoi-tieu-dung/index.html",
+      "final_url": "https://erasvietnam.vn/su-thuan-tien-chi-phoi-quyet-dinh-mua-hang-cua-nguoi-tieu-dung/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 244822,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/thiet-ke-website-ban-hang-nhung-mai-ma-khong-co-don-hang-nao/",
+      "status": "downloaded",
+      "path": "thiet-ke-website-ban-hang-nhung-mai-ma-khong-co-don-hang-nao/index.html",
+      "final_url": "https://erasvietnam.vn/thiet-ke-website-ban-hang-nhung-mai-ma-khong-co-don-hang-nao/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 245713,
+      "source": "https://erasvietnam.vn/social-marketing/"
+    },
+    {
+      "url": "https://erasvietnam.vn/kinh-doanh-nho-le-co-nen-xay-dung-website-ban-hang/",
+      "status": "downloaded",
+      "path": "kinh-doanh-nho-le-co-nen-xay-dung-website-ban-hang/index.html",
+      "final_url": "https://erasvietnam.vn/kinh-doanh-nho-le-co-nen-xay-dung-website-ban-hang/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 244790,
+      "source": "https://erasvietnam.vn/tin-tuc/"
+    },
+    {
+      "url": "https://erasvietnam.vn/kinh-doanh-thoi-trang-online-nen-co-website-hay-khong/",
+      "status": "downloaded",
+      "path": "kinh-doanh-thoi-trang-online-nen-co-website-hay-khong/index.html",
+      "final_url": "https://erasvietnam.vn/kinh-doanh-thoi-trang-online-nen-co-website-hay-khong/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 246730,
+      "source": "https://erasvietnam.vn/tin-tuc/"
+    },
+    {
+      "url": "https://erasvietnam.vn/huong-dan-viet-bai-chuan-seo-2021/",
+      "status": "downloaded",
+      "path": "huong-dan-viet-bai-chuan-seo-2021/index.html",
+      "final_url": "https://erasvietnam.vn/huong-dan-viet-bai-chuan-seo-2021/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 270581,
+      "source": "https://erasvietnam.vn/goc-nhin-website/"
+    },
+    {
+      "url": "https://erasvietnam.vn/thoi-dai-website-gia-re-lieu-da-het/",
+      "status": "downloaded",
+      "path": "thoi-dai-website-gia-re-lieu-da-het/index.html",
+      "final_url": "https://erasvietnam.vn/thoi-dai-website-gia-re-lieu-da-het/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 248207,
+      "source": "https://erasvietnam.vn/goc-nhin-website/"
+    },
+    {
+      "url": "https://erasvietnam.vn/thu-thuat/page/2/",
+      "status": "downloaded",
+      "path": "thu-thuat/page/2/index.html",
+      "final_url": "https://erasvietnam.vn/thu-thuat/page/2/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 240239,
+      "source": "https://erasvietnam.vn/thu-thuat/"
+    },
+    {
+      "url": "https://erasvietnam.vn/cai-thien-trai-nghiem-cua-khach-hang-qua-nhung-diem-cham-tinh-te/",
+      "status": "downloaded",
+      "path": "cai-thien-trai-nghiem-cua-khach-hang-qua-nhung-diem-cham-tinh-te/index.html",
+      "final_url": "https://erasvietnam.vn/cai-thien-trai-nghiem-cua-khach-hang-qua-nhung-diem-cham-tinh-te/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 243582,
+      "source": "https://erasvietnam.vn/creative-branding/"
+    },
+    {
+      "url": "https://erasvietnam.vn/5-yeu-to-cai-thien-trai-nghiem-nguoi-dung-ux/",
+      "status": "downloaded",
+      "path": "5-yeu-to-cai-thien-trai-nghiem-nguoi-dung-ux/index.html",
+      "final_url": "https://erasvietnam.vn/5-yeu-to-cai-thien-trai-nghiem-nguoi-dung-ux/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 243470,
+      "source": "https://erasvietnam.vn/ux-ui/"
+    },
+    {
+      "url": "https://erasvietnam.vn/goc-nhin/page/4/",
+      "status": "downloaded",
+      "path": "goc-nhin/page/4/index.html",
+      "final_url": "https://erasvietnam.vn/goc-nhin/page/4/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 241591,
+      "source": "https://erasvietnam.vn/goc-nhin/page/2/"
+    },
+    {
+      "url": "https://erasvietnam.vn/hieu-tu-a-z-ve-thiet-ke-website-responsive/",
+      "status": "downloaded",
+      "path": "hieu-tu-a-z-ve-thiet-ke-website-responsive/index.html",
+      "final_url": "https://erasvietnam.vn/hieu-tu-a-z-ve-thiet-ke-website-responsive/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 267111,
+      "source": "https://erasvietnam.vn/goc-nhin/page/3/"
+    },
+    {
+      "url": "https://erasvietnam.vn/huong-dan-cach-tao-bai-viet-trong-wordpress-don-gian-nhat/",
+      "status": "downloaded",
+      "path": "huong-dan-cach-tao-bai-viet-trong-wordpress-don-gian-nhat/index.html",
+      "final_url": "https://erasvietnam.vn/huong-dan-cach-tao-bai-viet-trong-wordpress-don-gian-nhat/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 245384,
+      "source": "https://erasvietnam.vn/goc-nhin/page/3/"
+    },
+    {
+      "url": "https://erasvietnam.vn/kinh-nghiem-tao-website-de-ban-hang-online/",
+      "status": "downloaded",
+      "path": "kinh-nghiem-tao-website-de-ban-hang-online/index.html",
+      "final_url": "https://erasvietnam.vn/kinh-nghiem-tao-website-de-ban-hang-online/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 241640,
+      "source": "https://erasvietnam.vn/goc-nhin/page/3/"
+    },
+    {
+      "url": "https://erasvietnam.vn/yoast-seo-la-gi-huong-dan-thiet-lap-va-su-dung-yoast-seo/",
+      "status": "downloaded",
+      "path": "yoast-seo-la-gi-huong-dan-thiet-lap-va-su-dung-yoast-seo/index.html",
+      "final_url": "https://erasvietnam.vn/yoast-seo-la-gi-huong-dan-thiet-lap-va-su-dung-yoast-seo/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 299682,
+      "source": "https://erasvietnam.vn/goc-nhin/page/3/"
+    },
+    {
+      "url": "https://erasvietnam.vn/cach-ban-hang-da-kenh-hieu-qua/",
+      "status": "downloaded",
+      "path": "cach-ban-hang-da-kenh-hieu-qua/index.html",
+      "final_url": "https://erasvietnam.vn/cach-ban-hang-da-kenh-hieu-qua/",
+      "content_type": "text/html; charset=UTF-8",
+      "bytes": 244784,
+      "source": "https://erasvietnam.vn/goc-nhin/page/5/"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+/* GSheetConnector front-end styles */
+
+/* Privacy notice inserted below Contact Form 7 forms */
+.gscf7-frontend-privacy-notice {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  line-height: 1.5;
+  color: #333333;
+  font-size: 12px;
+  background: transparent;
+}
+
+.gscf7-frontend-privacy-notice a {
+  color: #2271b1; /* link color */
+  text-decoration: underline;
+}
+
+.gscf7-frontend-privacy-notice img,
+.gscf7-frontend-gdpr-notice img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Slightly smaller text on narrow screens */
+@media (max-width: 480px) {
+  .gscf7-frontend-privacy-notice {
+    font-size: 11px;
+  }
+}
+
+/* Add a subtle muted appearance when form is in compact layouts */
+.gscf7-frontend-privacy-notice.gsc-muted {
+  color: #6c6c6c;
+}

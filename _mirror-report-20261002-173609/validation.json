@@ -1,0 +1,15 @@
+{
+  "html_files_checked": 169,
+  "local_references_checked": 28351,
+  "missing_local_references": [],
+  "changed_original_files": [],
+  "downloaded_bytes_before_link_rewrite": 235383734,
+  "status_counts": {
+    "sitemap": 7,
+    "downloaded": 199,
+    "error": 5,
+    "skipped": 3,
+    "asset_error": 25,
+    "asset_downloaded": 1172
+  }
+}
